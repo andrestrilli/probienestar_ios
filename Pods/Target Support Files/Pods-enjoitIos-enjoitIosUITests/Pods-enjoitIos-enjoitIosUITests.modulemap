@@ -1,0 +1,6 @@
+framework module Pods_enjoitIos_enjoitIosUITests {
+  umbrella header "Pods-enjoitIos-enjoitIosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
